@@ -1,4 +1,4 @@
-**MEXPRESS: A software that aids in visualizing expression, DNA methylation and clinical TCGA data**
+### **MEXPRESS: A software that aids in visualizing expression, DNA methylation and clinical TCGA data**
 
 Authors (@slack): Minella Akudinobi (@FrauMinella), Hiba-tul-noor (@Hibistic),  Hibaq Yusuf (@Hibaq)
 
@@ -6,7 +6,7 @@ A growing number of clinical and genomic cancer data has been made publicly avai
 
 MEXPRESS is an intuitive web tool designed after the principles of graphical excellence, for the fast querying and visualization of the clinical, expression and methylation data of these available datasets and the relationship between these datasets on a single gene level. It ensures that the complex TCGA data would be presented in a clear, precise and efficient way to the user. 
 
-**Implementation and application of MEXPRESS**
+### **Implementation and application of MEXPRESS**
 
 MEXPRESS features  creating a plot which results in an image that can downloaded in a PNG or SVG file format. To create this plot, a user has to enter a gene name, select an  available cancer type  and click the plot button.
 
@@ -14,7 +14,7 @@ The blue line plot illustrates the methylation for each probe location, the yell
 
 Researchers studying prostate cancer have used MEXPRESS to explore the expression of the gene GSTP1 while also investigating how its methylation status correlates with patient outcomes. The tool was also used to analyze the gene MLPH, a breast cancer marker, revealing how its methylation levels differ between various breast cancer subtypes and how these differences relate to its expression. 
 
-**Conclusion**
+### **Conclusion**
 
 The  availability of TCGA data is a tremendous asset, its utility is maximized by platforms like MEXPRESS, which bridge the gap between data complexity and user accessibility. These insights can help uncover new therapeutic targets and improve our understanding of the molecular mechanisms driving different cancers.
 
